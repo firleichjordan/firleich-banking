@@ -11,7 +11,7 @@ const ibmPlexSerif = IBM_Plex_Serif({
 
 export const metadata: Metadata = {
   title: "Firleich Bank",
-  description: "Firleich Bank is an online banking platform.",
+  description: "Firleich Banking is an online banking platform.",
   icons: {
     icon: "/icons/logo.svg",
   },
